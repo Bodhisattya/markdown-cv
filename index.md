@@ -2,18 +2,19 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bodhisattya Roy
+Associate Vice President (Marketing)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="bodhisattya_roy@yahoo.in">bodhisattya_roy@yahoo.in</a>
+| <a href="https://www.linkedin.com/in/bodhisattya/">LinkedIn</a>
+| <a href="https://bodhisattya.github.io">Blog</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I lead marketing division for a company called MPS Limited. I am managing a team of 5 people and help them support the different businss units by helping them grow the business. Currently, I am integrating the brand identity of our latest acquisition with the main organisation.
 
 ### Specialized in
 
